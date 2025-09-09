@@ -87,7 +87,4 @@ Ecommerce-Return-Rate-Analysis/
 
 ---
 
-## 👤 Author
-Developed by **Your Name**  
-📧 Contact: your.email@example.com  
-🌐 GitHub: [yourusername](https://github.com/yourusername)  
+ 
